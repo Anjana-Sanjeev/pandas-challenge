@@ -7,7 +7,11 @@
 
    # Summary
   
-    * This analysis was done to aggregate the data to showcase trends in school performance. A dataset was provided which contains the details of each school considered for the analysis. The key metrics for the analysis were school type, total students, total school budget, per student budget, average maths score, average reading score, percentage of students who passed maths, percentage of students who passed reading and overall percentage of students who passed both maths and reading.
+    * This analysis was done to aggregate the data to showcase trends in school performance. 
+    
+    * A dataset was provided which contains the details of each school considered for the analysis. 
+    
+    * The key metrics for the analysis were school type, total students, total school budget, per student budget, average of maths, reading score, percentage of students who passed maths, reading and overall passing percentage.
    
     * Initially a Local Government Area summary data frame was created to identify the area’s key metrics.
 
